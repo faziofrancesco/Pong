@@ -1,0 +1,14 @@
+Pong Project 
+Fazio Francesco Matricola 182855
+
+Per eseguire il codice:
+andare in source e digitare:
+g++ *.cpp -lallegro -lallegro_primitives -lallegro_image -lallegro_ttf -lallegro_font -lallegro_color -lallegro_audio -lallegro_acodec 
+
+Per giocare premere invio su una delle 4 modalità di gioco,e cliccare ulteriormente invio per avviare il movimento randomico della Pallina.
+i tasti sono w per andare sopra e s per andare sotto nelle prime due modalità 
+mentre nella terza modalita "pong 2 player" i tasti per il primo giocatore sono w e s per il primo e i e k per il secondo.
+L'ultima modalita di gioco ovvero "Hockey" i tasti del primo giocatore sono w a s d mentre del secondo sono i k j l.
+per mettere il gioco in pause premere il tasto space,mentre per uscire dalla modalita di gioco premere esc,ripremere esc se si vuole uscire definitivamente dal gioco.
+
+
